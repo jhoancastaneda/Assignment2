@@ -1,4 +1,4 @@
-CREATE TABLESPACE Taller2 DATAFILE
+CREATE TABLESPACE Taller2 DATAFILE 
 'C:\Users\Becari\Documents\sqldeveloper\Taller2_BD\Ejercicio2.dbf' size 500 M;
 
 CREATE TABLE CLASE_VEHICULO(
